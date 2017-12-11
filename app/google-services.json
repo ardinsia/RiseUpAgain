@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "304898160746",
+    "firebase_url": "https://riseupagain-d1233.firebaseio.com",
+    "project_id": "riseupagain-d1233",
+    "storage_bucket": "riseupagain-d1233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304898160746:android:15f70cce16ad24c3",
+        "android_client_info": {
+          "package_name": "com.example.ardin.riseupagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304898160746-8tdqgb88amk2ud4quhdlgc2p6mntkcau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ardin.riseupagain",
+            "certificate_hash": "7da579c7f15e593dc450784531d03aa8f5f41493"
+          }
+        },
+        {
+          "client_id": "304898160746-gq30gf7th2kh4id40ifffr7pijv5brl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmw8mVdhJ5VREiIB2TQP2Ajo95h8saiWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304898160746-gq30gf7th2kh4id40ifffr7pijv5brl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
